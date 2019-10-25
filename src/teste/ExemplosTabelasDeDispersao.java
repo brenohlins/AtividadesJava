@@ -42,10 +42,9 @@ public class ExemplosTabelasDeDispersao {
 		private void substituiEntrada()
 		{
 			Object valorAnterior;
-			valorAnterior = tabela.replace("Jonh");
+			valorAnterior = tabela.replace("Jonh", null);
 			String valorAnterior1;
-			valorAnterior1 = tabela.replace("2");
-			System.out.println("O valor anterior é");
+			
 			
 			
 		}
